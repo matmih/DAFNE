@@ -5,6 +5,8 @@ VM options:
 
 -Xmx15000m -Xms15000m  --add-opens=java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED
 
+![alt text](https://github.com/matmih/DAFNE/blob/main/DAFNEGit.jpg)
+
 This source code accompanies the publication: 
 
 1. Mihelčić, M., Šmuc, T. (2023). Rules, Subgroups and Redescriptions as Features in Classification Tasks. In: , et al. Machine Learning and Principles and Practice of Knowledge Discovery in Databases. ECML PKDD 2022. Communications in Computer and Information Science, vol 1752. Springer, Cham. https://doi.org/10.1007/978-3-031-23618-1_17
